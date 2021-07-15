@@ -24,5 +24,4 @@ int main()
   printf("Average of two subjects : %.2f" , avg );
 
   return 0 ; 
-
 }
