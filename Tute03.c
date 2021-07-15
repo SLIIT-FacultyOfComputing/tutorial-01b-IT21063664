@@ -25,7 +25,7 @@ int main()
     sum += i ;
   
   //print output
-  printf("Total :  %d" , sum );
+  printf("Total  :  %d" , sum );
 
   return 0;
 }

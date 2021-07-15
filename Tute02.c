@@ -31,7 +31,7 @@ int main()
     amt = dis * 50 ;
 
   else if(dis >30 )
-    amt = 30* 50 + (50 - 30) * 40 ;
+    amt = (30 * 50) + (50 - 30) * 40 ;
   
   //printing value
   printf("Amount : %d" , amt);
